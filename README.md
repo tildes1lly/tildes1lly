@@ -7,7 +7,7 @@ My handle is @tildesilly everywhere else. Github is the only place I use @tildes
 She/They 🏳️‍⚧️ (click [here](https://en.pronouns.page/@tildesilly) for more info)
 ### Projects I'm working on
 - [sirenhead.gay](https://sirenhead.gay) - yes this is my actual website
-- IMPALA - AUR helper I wrote in python
+- [IMPALA](https://github.com/tildes1lly/IMPALA) - AUR helper I wrote in python
 - linux abyss
 - [THE SIREN CALLS](https://sirenhead.gay/tsc) (coming 2027 i swear)
 ### Support me
