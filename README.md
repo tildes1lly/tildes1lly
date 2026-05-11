@@ -10,7 +10,7 @@ She/They 🏳️‍⚧️ (click [here](https://en.pronouns.page/@tildesilly) fo
 - [sirenhead.gay](https://sirenhead.gay) - yes this is my actual website
 - [IMPALA](https://github.com/tildes1lly/IMPALA) - AUR helper I wrote in python
 - [weatherfetch](https://github.com/tildes1lly/weatherfetch) - A weather CLI written in Rust
-- linux abyss
+- colon3
 - [THE SIREN CALLS](https://sirenhead.gay/tsc) (coming 2027 i swear)
 
 ### My best work
